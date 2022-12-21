@@ -18,7 +18,9 @@
 
 ### Задание 5
 
+![Nginx-core(https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-10.05/img/Screenshot_20221221_063934.png)
 
+`Дефолтная конфигурация, добавил разве что:`
 
 ```
 location /ping {
