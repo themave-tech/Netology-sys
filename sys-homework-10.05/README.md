@@ -10,3 +10,8 @@
 
 ### Задание 3
 
+`![HAproxy](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-10.05/img/Screenshot_20221221_041337.png)`
+
+### Задание 4
+
+`![Nginx](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-10.05/img/Screenshot_20221221_041856.png)`
