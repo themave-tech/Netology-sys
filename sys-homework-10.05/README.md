@@ -20,10 +20,37 @@
 
 ![Nginx-core](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-10.05/img/Screenshot_20221221_063934.png)
 
-`Дефолтная конфигурация, добавил разве что:`
+![Nginx-core](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-10.05/img/Screenshot_20221226_083731.png)
+
+`Конфигурация`
 
 ```
-location /ping {
-    error_page 404 /404.html;
+server {
+        listen 80 default_server;
+        listen [::]:80 default_server;
+        root /var/www/html;
+        index index.html index.htm index.nginx-debian.html;
+        server_name www.test.com;
+        location / {
+                try_files $uri $uri/ =404;
+        }
+        location /ping {
+                error_page 404 /404.html;
+        }
 }
+
+server {
+        listen 8088;
+        listen [::]:8088;
+        server_name test.com;
+        root /var/www/html;
+        index index.html index.htm index.nginx-debian.html;
+        location / {
+                try_files $uri $uri/ =404;
+        }
+        location /ping {
+                error_page 404 /404.html;
+        }
+}
+
 ```
