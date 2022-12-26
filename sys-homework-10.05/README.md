@@ -18,11 +18,7 @@
 
 ### Задание 5
 
-![Nginx-core](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-10.05/img/Screenshot_20221221_063934.png)
-
-![Nginx-core](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-10.05/img/Screenshot_20221226_083731.png)
-
-![Nginx-core](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-10.05/img/Screenshot_20221226_085731.png)
+![Nginx-core](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-10.05/img/Screenshot_20221226_090137.png)
 
 `Конфигурация`
 
