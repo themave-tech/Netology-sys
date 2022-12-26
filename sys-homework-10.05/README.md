@@ -22,6 +22,8 @@
 
 ![Nginx-core](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-10.05/img/Screenshot_20221226_083731.png)
 
+![Nginx-core](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-10.05/img/Screenshot_20221226_085731.png)
+
 `Конфигурация`
 
 ```
@@ -35,7 +37,8 @@ server {
                 try_files $uri $uri/ =404;
         }
         location /ping {
-                error_page 404 /404.html;
+#               error_page 404 /404.html;
+                return 200 'nginx is configured correctly';
         }
 }
 
@@ -49,7 +52,8 @@ server {
                 try_files $uri $uri/ =404;
         }
         location /ping {
-                error_page 404 /404.html;
+#                error_page 404 /404.html;
+                return 200 'nginx is configured correctly';
         }
 }
 
