@@ -1,2 +1,1 @@
-# Netology-sys
 # Study
