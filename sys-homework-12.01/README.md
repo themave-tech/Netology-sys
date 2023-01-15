@@ -8,7 +8,6 @@
 6. `Адрес филиала`
 7. `Проект`
 
-- `Example`
 ```
 CREATE TABLE employee (
     employee_id        char(5) CONSTRAINT PRIMARY KEY UNIQUE,
