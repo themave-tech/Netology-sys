@@ -3,8 +3,19 @@
 ### Задание 1
 
 - `Windows клиент и DBeaver`
-
 ![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230130_072017.png)
-
 ![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230130_072112.png)
+
+- `Linux`
+![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230130_080940.png)
+
+- `Создание учетной записи`
+![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230130_081340.png)
+
+- `Список пользователей`
+![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230130_081707.png)
+
+- `Права пользователя`
+![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230130_082210.png)
+
 
