@@ -5,6 +5,7 @@
 - `Windows клиент и DBeaver`
 
 ![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230130_072017.png)
+
 ![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230130_072112.png)
 
 - `Linux`
@@ -22,10 +23,16 @@
 - `Права пользователя`
 
 ![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230130_082210.png)
+
 ![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230130_083753.png)
 
 - `Восстановление`
 
 ![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230130_085449.png)
+
 ![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230130_085515.png)
+
+### Задание 2
+
+![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230130_090412.png)
 
