@@ -2,4 +2,6 @@
 
 ### Задание 1
 
-![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-11.01/img/Screenshot_20230109_075824.png)
+![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230130_072017.png)
+
+![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230130_072112.png)
