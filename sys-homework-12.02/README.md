@@ -34,9 +34,12 @@
 
 ### Задание 2
 
-![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230130_092906.png)
-
+- `Пример запроса`
 ```
 select COLUMN_NAME, TABLE_NAME from KEY_COLUMN_USAGE where COLUMN_NAME LIKE '%id';
 ```
 ![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230131_080325.png)
+
+- `Вариант с графами`
+
+![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230130_092906.png)
