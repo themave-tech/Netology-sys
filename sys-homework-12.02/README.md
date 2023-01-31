@@ -34,11 +34,11 @@
 
 ### Задание 2
 
-- `Пример`
 ```
-select COLUMN_NAME, TABLE_NAME from KEY_COLUMN_USAGE where COLUMN_NAME LIKE '%id';
+select * from KEY_COLUMN_USAGE where CONSTRAINT_NAME = 'PRIMARY' and TABLE_SCHEMA = 'sakila';
+
 ```
-![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230131_081530.png)
+![image](https://github.com/themave-tech/Netology-sys/blob/main/sys-homework-12.02/img/Screenshot_20230131_083231.png)
 
 - `Вариант с графами`
 
