@@ -1,1 +1,1 @@
-# Study
+# Study system administration in Netology
